@@ -1,4 +1,5 @@
 import urllib2
+
 class HttpBrowser:
     def __init__(self):
         pass
